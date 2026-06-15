@@ -10,8 +10,6 @@ List of completed modules:
 
 List of modules to be created:
 
-Version 1005100 adds a web version.
-
 Current version: 1005100
 
 old version: 1000000 > 1001000 > 1002000 > 1003000 > 1004000 > 1005001 > 1005003 > 1005004 > 1005005 > 1005010 > 1005011 > 1005012 > 1005013 > 1005014
