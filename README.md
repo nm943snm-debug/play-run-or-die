@@ -18,9 +18,3 @@ We currently need a few referrals. If you've come this far, please play the game
 
 List of assisting personnel:
 
-# Game screen
-<img width="1919" height="1011" alt="B" src="https://github.com/user-attachments/assets/bb40ab32-6150-4630-b559-9e7417b05cf1" />
-<img width="1919" height="1008" alt="c" src="https://github.com/user-attachments/assets/e5e8d4b0-3b9a-4068-a4e3-aa7f3798b1b1" />
-<img width="1919" height="1008" alt="E" src="https://github.com/user-attachments/assets/4fb9c014-949a-461d-a287-1e6b2bb4d94d" />
-<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/36651aef-d511-4404-8c72-69fd2f25b216" />
-<img width="1914" height="935" alt="image" src="https://github.com/user-attachments/assets/23cae718-7467-4fd7-b571-b4936a9216c0" />
