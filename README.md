@@ -10,11 +10,11 @@ List of completed modules:
 
 List of modules to be created:
 
-Current version: 1005100
+Current version: 1005101
 
-old version: 1000000 > 1001000 > 1002000 > 1003000 > 1004000 > 1005001 > 1005003 > 1005004 > 1005005 > 1005010 > 1005011 > 1005012 > 1005013 > 1005014
+old version: 1000000 > 1001000 > 1002000 > 1003000 > 1004000 > 1005001 > 1005003 > 1005004 > 1005005 > 1005010 > 1005011 > 1005012 > 1005013 > 1005014 > 1005100
 
 We currently need a few referrals. If you've come this far, please play the game. Any feedback is welcome, and I will add your name to the game download page. Of course, you can also play the older version (not listed on the download page) to see the differences between the old and new versions.
 
-List of assisting personnel:
+List of assisting personnel: Niya
 
