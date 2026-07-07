@@ -18,3 +18,6 @@ We currently need a few referrals. If you've come this far, please play the game
 
 List of assisting personnel: https://www.twitch.tv/niyaa0123
 
+# announcement
+
+The upcoming 1.0.0.6 version series will introduce features such as nuclear power plants and personal messaging. This series is expected to launch in mid-July; within the 1.0.0.6 series, only the final release will be the official version, while all preceding releases will be test versions.
