@@ -12,7 +12,7 @@ List of modules to be created:
 
 We currently need a few referrals. If you've come this far, please play the game. Any feedback is welcome, and I will add your name to the game download page. Of course, you can also play the older version (not listed on the download page) to see the differences between the old and new versions.
 
-List of assisting personnel: https://www.twitch.tv/niyaa0123 https://www.twitch.tv/alannnnn09
+List of assisting personnel: https://www.twitch.tv/niyaa0123 https://www.twitch.tv/alannnnn09 https://www.twitch.tv/oneeyebear2000
 
 # announcement
 
