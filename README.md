@@ -17,3 +17,5 @@ List of assisting personnel: https://www.twitch.tv/niyaa0123 https://www.twitch.
 # announcement
 
 The upcoming 1.0.0.6 version series will introduce features such as nuclear power plants and personal messaging. The first version of the series is expected to be released in mid-July.; within the 1.0.0.6 series, only the final release will be the official version, while all preceding releases will be test versions.
+
+<img width="803" height="803" alt="image" src="https://github.com/user-attachments/assets/2157b562-0293-46cd-8dd6-9dfb831f2c58" />
