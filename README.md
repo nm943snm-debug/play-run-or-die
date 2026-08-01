@@ -40,4 +40,4 @@ The upcoming 1.0.0.6 version series will introduce features such as nuclear powe
 
 Eyinza okukka ku Steam mu myaka mukaaga.
 
-Ganda
+Visit Ganda
