@@ -39,3 +39,5 @@ The upcoming 1.0.0.6 version series will introduce features such as nuclear powe
 <img width="803" height="803" alt="image" src="https://github.com/user-attachments/assets/2157b562-0293-46cd-8dd6-9dfb831f2c58" />
 
 Eyinza okukka ku Steam mu myaka mukaaga.
+
+Ganda
