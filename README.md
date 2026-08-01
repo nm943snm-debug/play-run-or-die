@@ -37,3 +37,5 @@ The upcoming 1.0.0.6 version series will introduce features such as nuclear powe
 即將推出的 1.0.0.6 版本系列將引入核電廠和個人訊息等功能。該系列的首個版本預計於 7 月中旬發布；在 1.0.0.6 系列中，僅最終發布的版本為正式版，而此前的所有版本均為測試版。
 
 <img width="803" height="803" alt="image" src="https://github.com/user-attachments/assets/2157b562-0293-46cd-8dd6-9dfb831f2c58" />
+
+It might be released on Steam in six years.
