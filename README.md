@@ -14,7 +14,7 @@ We currently need a few referrals. If you've come this far, please play the game
 
 Currently available keys: Period, Up, Down, Left, Right, A, D, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, Shift, F1, F2, F3
 
-歡迎解包 PCK 檔案。本項目允許修改 PCK 內容。如果您希望進行修改，可以在  提交合併請求，並提供可下載的雲盤連結（必須是使用 GODOT 3.5 製作的 PCK 檔案或包含完整專案的 ZIP 壓縮包）。隨後，我將建立一個模組並添加相應的模組載入功能。
+歡迎解包 PCK 檔案。本項目允許修改 PCK 內容。如果您希望進行修改，可以在 [https://github.com/nm943snm-debug/play-run-or-die/issues](https://github.com/nm943snm-debug/play-run-or-die/issues) 提交合併請求，並提供可下載的雲盤連結（必須是使用 GODOT 3.5 製作的 PCK 檔案或包含完整專案的 ZIP 壓縮包）。隨後，我將建立一個模組並添加相應的模組載入功能。
 
 注意：如果您不熟悉 GODOT 3.5，請發送郵件至 "nm943snm@gmail.com"，我會協助您建立模組。
 
