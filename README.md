@@ -33,8 +33,11 @@ Currently available keys: Period, Up, Down, Left, Right, A, D, 0, 1, 2, 3, 4, 5,
 # announcement
 
 The upcoming 1.0.0.6 version series will introduce features such as nuclear power plants and personal messaging. The first version of the series is expected to be released in mid-July.; within the 1.0.0.6 series, only the final release will be the official version, while all preceding releases will be test versions.
+[Online URL](https://play-run-or-die.netlify.app)
+
 
 即將推出的 1.0.0.6 版本系列將引入核電廠和個人訊息等功能。該系列的首個版本預計於 7 月中旬發布；在 1.0.0.6 系列中，僅最終發布的版本為正式版，而此前的所有版本均為測試版。
+[線上網址](https://play-run-or-die.netlify.app)
 
 <img width="803" height="803" alt="image" src="https://github.com/user-attachments/assets/2157b562-0293-46cd-8dd6-9dfb831f2c58" />
 
